@@ -1,0 +1,16 @@
+{
+  "name": "ngrok",
+  "description": "Expose local services, route and secure traffic, receive webhooks, and more.",
+  "owner": {
+    "name": "ngrok",
+    "email": "support@ngrok.com",
+    "url": "https://ngrok.com"
+  },
+  "plugins": [
+    {
+      "name": "ngrok",
+      "source": "./",
+      "description": "Expose local services, route and secure traffic, receive webhooks, and more."
+    }
+  ]
+}

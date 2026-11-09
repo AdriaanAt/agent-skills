@@ -1,0 +1,26 @@
+{
+  "name": "ngrok",
+  "displayName": "ngrok",
+  "description": "Expose local services, route and secure traffic, receive webhooks, and more.",
+  "author": {
+    "name": "ngrok"
+  },
+  "homepage": "https://github.com/ngrok/skills",
+  "repository": "https://github.com/ngrok/skills",
+  "license": "MIT",
+  "category": "Developer Tools",
+  "keywords": [
+    "ngrok",
+    "connectivity",
+    "gateway",
+    "networking",
+    "localhost"
+  ],
+  "tags": [
+    "ngrok",
+    "connectivity",
+    "gateway"
+  ],
+  "skills": "./skills/",
+  "mcpServers": "./.cursor-plugin/mcp.json"
+}
